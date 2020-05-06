@@ -6,4 +6,4 @@ Created With Letex
     </embed>
 </object>
 
-![alt tag](https://raw.githubusercontent.com/jaydeep3969/Jaydeep-Monapara-Resume/blob/master/Jaydeep_Monapara_Resume.jpg)
+![alt tag](https://github.com/jaydeep3969/Jaydeep-Monapara-Resume/blob/master/Jaydeep_Monapara_Resume.jpg)
